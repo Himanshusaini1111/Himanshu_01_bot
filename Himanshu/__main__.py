@@ -19,6 +19,6 @@ for name in files:
 print("Himanshu BOT STARTED & LOADED ALL PLUGINS")
 
 if __name__=="__main__":
-  bot.run_until_disconnected()
+bot.run_until_disconnected()
     
   
